@@ -5,9 +5,7 @@
     </div>
     <p class="header">Hello Tom!</p>
   </q-card>
-  <q-card class="my-card text-white custom-card--small" clickable :to="profile"
-    ><p class="header2">Planner</p></q-card
-  ><q-card class="my-card table-summary">
+  <q-card class="my-card table-summary">
     <q-card-section>
       <div class="text-h4">Summary</div>
     </q-card-section>
