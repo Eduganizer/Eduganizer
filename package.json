@@ -13,13 +13,18 @@
     "@quasar/extras": "^1.0.0",
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
+    "kalendar-vue": "^2.1.1",
+    "portal-vue": "^2.1.7",
     "quasar": "^2.0.0",
+    "vue-cal": "^3.10.1",
     "vue-i18n": "^9.0.0",
+    "vuetify": "^2.5.10",
     "vuex": "^4.0.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
     "@quasar/app": "^3.0.0",
+    "@quasar/quasar-app-extension-qcalendar": "^3.4.1",
     "@types/node": "^12.20.21",
     "@typescript-eslint/eslint-plugin": "^4.16.1",
     "@typescript-eslint/parser": "^4.16.1",
